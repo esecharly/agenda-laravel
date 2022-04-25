@@ -22,7 +22,7 @@
 
 <body>
 
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fw-bold" style="font-family: 'Josefin Sans', sans-serif;">
+    <nav class="navbar navbar-expand-lg navbar-light bg-warning fw-bold" style="font-family: 'Josefin Sans', sans-serif;">
         <div class="container-fluid">
             <a class="navbar-brand" href="{{ route('inicio') }}">
                 <i class="fas fa-address-book fa-lg"></i>
